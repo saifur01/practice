@@ -10,6 +10,16 @@ h1{
 h2{
     font-size: 25px;
 }
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 20px;
+    color: darkmagenta;
+}
+p{
+    color: dimgray;
+}
 
 .gpurple-color{
     color: purple;
@@ -35,6 +45,7 @@ h2{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .anchor-button{
     text-decoration: none;
@@ -44,4 +55,7 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.dream area{
+   background-image: url("image/abc.png");
 }
